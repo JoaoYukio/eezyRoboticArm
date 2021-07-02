@@ -1,5 +1,7 @@
 # eezyRoboticArm
 Um braço robótico com 3 graus de liberdade usando três motores de passo simples, controlados via WiFi usando Blynk.
+<img src="https://github.com/JoaoYukio/eezyRoboticArm/blob/main/Photos/IMG_20210702_123952073.jpg" height ="380" width ="315">
+<img src="https://github.com/JoaoYukio/eezyRoboticArm/blob/main/Photos/IMG_20210702_124004612.jpg" height ="380" width ="315">
 
 # Créditos
 Esse [braço robótico](https://www.thingiverse.com/thing:2838859) foi feito usando uma impressora 3d e filamentos PLA branco e laranja, as juntas foram lubrificadas com graxa para corrente e ligadas com parafusos.
