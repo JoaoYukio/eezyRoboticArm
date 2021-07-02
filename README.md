@@ -1,6 +1,9 @@
 # eezyRoboticArm
 Um braço robótico com 3 graus de liberdade usando três motores de passo simples, controlados via WiFi usando Blynk.
-<img src="https://github.com/JoaoYukio/eezyRoboticArm/blob/main/Photos/IMG_20210702_123952073.jpg" height ="380" width ="315">
+
+Braço robótico testado usando um Arduino nano, após os testes foram feitas as conexões com um Esp32 e foi controlado usando o Blynk.
+
+<img src="https://github.com/JoaoYukio/eezyRoboticArm/blob/main/Photos/IMG_20210702_123952073.jpg" height ="380" width ="500">
 <img src="https://github.com/JoaoYukio/eezyRoboticArm/blob/main/Photos/IMG_20210702_124004612.jpg" height ="380" width ="315">
 
 # Créditos
